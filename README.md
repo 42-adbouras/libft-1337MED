@@ -1,6 +1,6 @@
 ## Grade
 
-<img src="https://raw.githubusercontent.com/42-adbouras/images/master/125%25.png?token=GHSAT0AAAAAACQPVWZPYMTASHPSHMNBBN3YZRCG4XA" width=200px height=175px/>
+<img src="https://raw.githubusercontent.com/42-adbouras/images/master/125%25.png?token=GHSAT0AAAAAACQPVWZOUCE64GGWCBEEQXRKZRGUS7A" width=200px height=175px/>
 
 ## I - Mandatory Part
 
